@@ -93,3 +93,6 @@ const email = req.body.email;
     });
   });
 });
+
+
+module.exports = router;
